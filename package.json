@@ -6,6 +6,18 @@
   "author": "Wojtek Szałkiewicz <wojtek@szalkiewicz.pl>",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/micropackage/responsive-embeds",
+	"keywords": [
+		"responsive",
+		"fluid",
+		"rwd",
+		"fitvids",
+		"embeds",
+		"video",
+		"media",
+		"iframe",
+		"youtube",
+		"vimeo"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/micropackage/responsive-embeds.git"
