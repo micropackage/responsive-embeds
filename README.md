@@ -1,9 +1,7 @@
 # Responsive Embeds
 
 [![BracketSpace Micropackage](https://img.shields.io/badge/BracketSpace-Micropackage-brightgreen)](https://bracketspace.com)
-[![Latest Stable Version](https://poser.pugx.org/micropackage/responsive-embeds/v/stable)](https://packagist.org/packages/micropackage/responsive-embeds)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/micropackage/responsive-embeds.svg)](https://packagist.org/packages/micropackage/responsive-embeds)
-[![Total Downloads](https://poser.pugx.org/micropackage/responsive-embeds/downloads)](https://packagist.org/packages/micropackage/responsive-embeds)
+[![npm](https://img.shields.io/npm/v/@micropackage/responsive-embeds)](https://www.npmjs.com/package/@micropackage/responsive-embeds)
 [![License](https://poser.pugx.org/micropackage/responsive-embeds/license)](https://packagist.org/packages/micropackage/responsive-embeds)
 
 ## 🧬 About Responsive Embeds
