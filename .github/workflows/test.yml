@@ -15,4 +15,4 @@ jobs:
     - name: ESlint
       run: |
         npm install
-        npm run lint:js
+        npm run lint
