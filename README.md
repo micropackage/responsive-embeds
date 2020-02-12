@@ -4,6 +4,10 @@
 [![npm](https://img.shields.io/npm/v/@micropackage/responsive-embeds)](https://www.npmjs.com/package/@micropackage/responsive-embeds)
 [![License](https://img.shields.io/npm/l/@micropackage/responsive-embeds)](https://www.npmjs.com/package/@micropackage/responsive-embeds)
 
+<p align="center">
+    <img src="https://bracketspace.com/extras/micropackage/micropackage-small.png" alt="Micropackage logo"/>
+</p>
+
 ## 🧬 About Responsive Embeds
 
 This package provides a JavaScript function which can make any embed (like youtube video iframe) responsive.
