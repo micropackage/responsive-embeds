@@ -25,7 +25,7 @@ yarn add @micropackage/responsive-embeds
 ## 🕹 Usage
 
 ```javascript
-import responsiveEmbeds from 'responsive-embeds';
+import responsiveEmbeds from '@micropackage/responsive-embeds';
 
 // See arguments description below.
 responsiveEmbeds( element, params );
