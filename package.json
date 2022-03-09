@@ -1,11 +1,11 @@
 {
-  "name": "@micropackage/responsive-embeds",
-  "description": "Makes any embed responsive, no markup changes required.",
-  "version": "1.0.0",
-  "main": "dist/responsive-embeds.js",
-  "author": "Wojtek Szałkiewicz <wojtek@szalkiewicz.pl>",
-  "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/micropackage/responsive-embeds",
+	"name": "@micropackage/responsive-embeds",
+	"description": "Makes any embed responsive, no markup changes required.",
+	"version": "1.0.2",
+	"main": "dist/responsive-embeds.js",
+	"author": "Wojtek Szałkiewicz <wojtek@szalkiewicz.pl>",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://github.com/micropackage/responsive-embeds",
 	"keywords": [
 		"responsive",
 		"fluid",
@@ -28,34 +28,36 @@
 	"publishConfig": {
 		"access": "public"
 	},
-  "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
-    "@wordpress/eslint-plugin": "^3.4.1",
-    "babel-eslint": "^10.0.3",
-    "babel-loader": "^8.0.6",
-    "eslint": "^6.8.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
-  },
-  "scripts": {
-    "build": "webpack --mode=development",
-    "build:production": "webpack --mode=production",
-    "start": "webpack --mode=development --watch",
-    "lint": "eslint .",
-    "lint-fix": "eslint . --fix"
-  },
-  "eslintConfig": {
-    "extends": [ "plugin:@wordpress/eslint-plugin/esnext" ],
-    "parserOptions": {
-      "ecmaVersion": 11
-    },
-    "env": {
-      "browser": true,
-      "es2020": true
-    },
-    "ignorePatterns": [
-      "dist/"
-    ]
-  }
+	"devDependencies": {
+		"@babel/core": "^7.17.5",
+		"@babel/preset-env": "^7.16.11",
+		"@wordpress/eslint-plugin": "^10.0.2",
+		"babel-eslint": "^10.0.3",
+		"babel-loader": "^8.2.3",
+		"eslint": "^8.10.0",
+		"webpack": "^5.70.0",
+		"webpack-cli": "^4.9.2"
+	},
+	"scripts": {
+		"build": "webpack --mode=production",
+		"dev": "webpack --mode=development",
+		"start": "webpack --mode=development --watch",
+		"lint": "eslint .",
+		"lint-fix": "eslint . --fix"
+	},
+	"eslintConfig": {
+		"extends": [
+			"plugin:@wordpress/eslint-plugin/esnext"
+		],
+		"parserOptions": {
+			"ecmaVersion": 11
+		},
+		"env": {
+			"browser": true,
+			"es2020": true
+		},
+		"ignorePatterns": [
+			"dist/"
+		]
+	}
 }
