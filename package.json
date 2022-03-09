@@ -1,7 +1,7 @@
 {
   "name": "@micropackage/responsive-embeds",
   "description": "Makes any embed responsive, no markup changes required.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/responsive-embeds.js",
   "author": "Wojtek Szałkiewicz <wojtek@szalkiewicz.pl>",
   "license": "GPL-3.0-or-later",
