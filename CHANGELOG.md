@@ -1,10 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [next]
+## 1.0.1
 
 * [Added] TypeScript type definitions file
 
-## 1.0.0 - 11.02.2020
+## 1.0.0
 
 Initial release
