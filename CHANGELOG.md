@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Next]
+## 1.0.3
 
 * [Fixed] dist files being not present in the package
 
