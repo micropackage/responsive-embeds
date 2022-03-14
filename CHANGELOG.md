@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 1.0.3
+
+* [Fixed] dist files being not present in the package
+
 ## 1.0.2
 
 * [Changed] Updated dependencies
